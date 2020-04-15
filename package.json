@@ -1,0 +1,19 @@
+{
+  "name": "number-formats.js",
+  "version": "1.0.1",
+  "description": "Number formats",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kolirt/number-formats.js.git"
+  },
+  "author": "Asan Aburakhmanov <asan11@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolirt/number-formats.js/issues"
+  },
+  "homepage": "https://github.com/kolirt/number-formats.js#readme"
+}
